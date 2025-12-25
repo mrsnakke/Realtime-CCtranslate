@@ -1,0 +1,16 @@
+node_modules/
+
+# Electron
+*.asar
+!**/node_modules/**/electron/dist/Electron.app/Contents/Resources/default_app.asar
+
+# Logs
+logs/
+*.log
+pm-debug.log*
+.electron-connect/
+.DS_Store
+
+# Production
+release/
+build/
