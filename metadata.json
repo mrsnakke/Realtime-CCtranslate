@@ -1,0 +1,7 @@
+{
+  "name": "StreamTranslate AI",
+  "description": "Powerful desktop-grade translation tool for live content creators, utilizing Gemini 3 Flash for zero-lag dual-language translations (Spanish to English and Japanese).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
